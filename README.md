@@ -5,9 +5,8 @@ I am a UI Designer and Frontend web developer with 1.5+ years experience. My too
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working as a Freelance Web Designer
-- 🌱 I’m currently learning PHP
 - 💼 I’m pursuing a Bachelor of Informatics Engineering Degree
-- 📫 How to reach me: donnypratamae@gmail.com
-- 😄 I'm natively speak Indonesian and fluently speak english.
-- ⚡ Fun fact: I love code and gaming
+- 🌱 I’m currently learning Flutter & JavaScript
+- 📫 How to reach me : donnypratamae@gmail.com
+- 😄 I'm natively speak Indonesian and intermediate speak english.
+- ⚡ Fun fact : I love code and gaming
