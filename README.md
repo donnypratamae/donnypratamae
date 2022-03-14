@@ -6,7 +6,7 @@ I am a UI Designer and Frontend web developer with 1.5+ years experience. My too
 Here are some ideas to get you started:
 
 - 💼 I’m pursuing a Bachelor of Informatics Engineering Degree
-- 🌱 I’m currently learning Flutter & JavaScript
+- 🌱 I’m currently try to slicing ui design into a website
 - 📫 How to reach me : donnypratamae@gmail.com
 - 😄 I'm natively speak Indonesian and intermediate speak english.
 - ⚡ Fun fact : I love code and gaming
