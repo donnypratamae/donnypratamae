@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 💼 I’m pursuing a Bachelor of Informatics Engineering Degree
-- 🌱 I’m currently try to slicing ui design into a website
+- 🌱 I’m currently try to create a respownsive website
 - 📫 How to reach me : donnypratamae@gmail.com
 - 😄 I'm natively speak Indonesian and intermediate speak english.
 - ⚡ Fun fact : I love code and gaming
