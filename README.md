@@ -4,5 +4,5 @@
 - 💼 I’m pursuing a Bachelor of Informatics Engineering Degree
 - 🌱 I’m currently try to create a responsive website
 - 📫 How to reach me : donnypratamae@gmail.com
-- 😄 I'm natively speak Indonesian and intermediate speak english.
+- 😄 I'm natively speak Indonesian and intermediate speak english
 - ⚡ Fun fact : I love code and gaming
