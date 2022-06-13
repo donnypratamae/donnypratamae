@@ -1,5 +1,5 @@
 ### Hi there, I am Donny Pratama 👋
-![github](https://user-images.githubusercontent.com/64658351/131376658-94f1cfa0-f0ac-4761-bd9f-30c7012a4cb2.jpg)
+![bg-github](https://user-images.githubusercontent.com/64658351/173402860-7222b9c5-ad22-44b7-85d7-f1ba47bee862.png)
 
 - 💼 I’m pursuing a Bachelor of Informatics Engineering Degree
 - 🌱 I’m currently try to create a responsive website
