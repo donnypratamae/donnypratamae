@@ -6,5 +6,5 @@
 - 📫 How to reach me : donnypratamae@gmail.com
 - 😄 I'm natively speak Indonesian and intermediate speak english
 - ⚡ Fun fact : I love code and gaming
-
+![Github stats](https://github-readme-stats.vercel.app/api?username=donnypratamae&theme=tokyonight&show_icons=true&count_private=true) 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=donnypratamae&theme=tokyonight&show_icons=true&count_private=true)
