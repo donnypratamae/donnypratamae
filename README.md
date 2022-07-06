@@ -7,4 +7,4 @@
 - 😄 I'm natively speak Indonesian and intermediate speak English
 - ⚡ Fun fact : I love code and music
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=donnypratamae&layout=compact) ![Github stats](https://github-readme-stats.vercel.app/api?username=donnypratamae&theme=tokyonight&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=donnypratamae&theme=tokyonight&show_icons=true&count_private=true)
