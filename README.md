@@ -5,6 +5,6 @@
 - 🌱 I’m currently try to create an open source code
 - 📫 How to reach me : donnypratamae@gmail.com
 - 😄 I'm natively speak Indonesian and intermediate speak English
-- ⚡ Fun fact : I love code, music and gaming
+- ⚡ Loving Music and Gaming
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=donnypratamae&theme=tokyonight&show_icons=true&count_private=true)
